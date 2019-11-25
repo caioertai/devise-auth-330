@@ -1,4 +1,4 @@
-FrozenStringLiteralComment:
+Style/FrozenStringLiteralComment:
   Enabled: false
 Style/ConditionalAssignment:
   Enabled: false
